@@ -1,5 +1,5 @@
 # Ex.08 Design of Interactive Image Gallery
-## Date:
+## Date:07/10/25
 
 ## AIM:
 To design a web application for an inteactive image gallery with minimum five images.
@@ -136,6 +136,8 @@ img2.addEventListener("mouseout",()=>
 
 ## OUTPUT:
 ![alt text](<Screenshot (42).png>)
+![alt text](<Screenshot 2025-10-07 010421.png>)
+![alt text](<Screenshot 2025-10-07 010357.png>)
 
 ## RESULT:
 The program for designing an interactive image gallery using HTML, CSS and JavaScript is executed successfully.
