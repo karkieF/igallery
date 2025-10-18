@@ -56,7 +56,7 @@ style.css
     border:0;
 }
 body{
-    background: linear-gradient(135deg, #00c6ff, #2a5298, #00c6ff);
+    background: linear-gradient(135deg, #e600c0ff, #d400ffff, #ff00ffff);
 }
 .image{
     
@@ -69,7 +69,7 @@ img{
     width: 170px;
     left:30px;
     height: 200px;
-    border:solid 10px rgba(58, 135, 171, 0.83);
+    border:solid 10px rgba(247, 0, 255, 0.83);
     transition: transform 0.3s ease;
     cursor: pointer;
 }
@@ -135,9 +135,9 @@ img2.addEventListener("mouseout",()=>
 ```
 
 ## OUTPUT:
-![alt text](<Screenshot (42).png>)
-![alt text](<Screenshot 2025-10-07 010421.png>)
-![alt text](<Screenshot 2025-10-07 010357.png>)
+![alt text](<Screenshot (55).png>)
+![alt text](<Screenshot (56).png>)
+![alt text](<Screenshot (57).png>)
 
 ## RESULT:
 The program for designing an interactive image gallery using HTML, CSS and JavaScript is executed successfully.
