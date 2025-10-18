@@ -4,7 +4,7 @@ style.css
     border:0;
 }
 body{
-    background: linear-gradient(135deg, #00c6ff, #2a5298, #00c6ff);
+    background: linear-gradient(135deg, #e600ff, #f300c6, #ff00ff);
 }
 .image{
     
@@ -17,7 +17,7 @@ img{
     width: 170px;
     left:30px;
     height: 200px;
-    border:solid 10px rgba(58, 135, 171, 0.83);
+    border:solid 10px rgba(255, 0, 230, 0.83);
     transition: transform 0.3s ease;
     cursor: pointer;
 }
